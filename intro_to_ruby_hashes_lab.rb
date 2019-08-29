@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  
+  {
 end
 
 def id_generator
